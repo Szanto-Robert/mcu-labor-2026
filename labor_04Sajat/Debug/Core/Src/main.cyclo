@@ -1,0 +1,10 @@
+../Core/Src/main.c:81:6:OLED_TestLine	1
+../Core/Src/main.c:92:6:OLED_TestRectangle	2
+../Core/Src/main.c:105:6:OLED_TestCircle	2
+../Core/Src/main.c:122:6:OLED_TestArc	1
+../Core/Src/main.c:136:6:OLED_TestPolyline	1
+../Core/Src/main.c:153:6:OLED_TestFonts	1
+../Core/Src/main.c:168:6:OLED_TestCCE	1
+../Core/Src/main.c:198:5:main	16
+../Core/Src/main.c:343:6:SystemClock_Config	3
+../Core/Src/main.c:393:6:Error_Handler	1
